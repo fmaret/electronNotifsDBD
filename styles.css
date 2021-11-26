@@ -1,0 +1,20 @@
+/* styles.css */
+
+/* Add styles here to customize the appearance of your app */
+
+
+.topBar{
+    -webkit-app-region: no-drag
+}
+
+.text-gray{
+    color:gray;
+}
+
+.bg-gray{
+    background-color:rgb(20, 20, 20);
+}
+
+a,button{
+    -webkit-app-region:None
+}
